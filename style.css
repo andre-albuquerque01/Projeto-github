@@ -10,4 +10,6 @@ main{
     background-color: aqua;
     margin: auto;
     padding: 10px;
+    width: 500px;
+    box-shadow: 0, 0, 2 rgba(red, green, blue, alpha);
 }
